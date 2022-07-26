@@ -7,6 +7,9 @@
 Soal Nomor 1
 Lakukan proses instalasi framework laravel kedalam folder dengan nama masing-masing
 
+![image](https://user-images.githubusercontent.com/109930667/180919516-e1eb1e47-7707-4bdd-be16-d5e265d851e9.png)
+
+
 ```
 composer create-project laravel/laravel penjualan
 ```
